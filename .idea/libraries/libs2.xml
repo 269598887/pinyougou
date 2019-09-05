@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/api_demo/alicom-dysms-api/libs/aliyun-java-sdk-core-3.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/api_demo/alicom-dysms-api/libs/aliyun-java-sdk-dysmsapi-1.0.0-SANPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>入门小DEMO-循环</title>
+    <script src="angular.min.js"></script>
+    <script>
+        // 定义模块
+        var app=angular.module("myApp",[]);
+        //定义控制器
+        app.controller("myController",function ($scope) {
+          $scope.list=[1,2,3,4]
+        });
+    </script>
+</head>
+<body ng-app="myApp" ng-controller="myController" >
+<table>
+    <tr ng-repeat="x in list">
+        <td>{{x}}</td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/casclient_demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient_demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient_demo3" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_cart_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_cart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_page_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_page_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_shop_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_user_interface" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_user_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_parent/pinyougou_user_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pingyougou_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_cart_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_cart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_order_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_order_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_page_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_page_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_pay_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_seckill_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_seckill_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_user_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyougou_user_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_partent_project/pinyouugou_shop_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pinyougou_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/aliyun-java-sdk-dysmsapi/pom.xml" />
+        <option value="$PROJECT_DIR$/aliyun-java-sdk-core/pom.xml" />
+        <option value="$PROJECT_DIR$/alicom-dysms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient_demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient_demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_partent_project/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_sms_server/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_partent_project/pinyouugou_shop_web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pinyougou_parent/Freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_cart_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_cart_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_cart_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_common/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_content_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_content_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_page_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_page_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_page_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_portal_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_search_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_search_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_search_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_sellergoods_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_sellergoods_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_shop_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_solr_util/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_user_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pinyougou_user_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_partent_project/pinyougou_order_web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

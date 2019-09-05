@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>入门小DEMO-控制器</title>
+    <script src="angular.min.js"></script>
+    <script>
+        // 定义模块
+        var app=angular.module("myApp",[]);
+        //定义控制器
+        app.controller("myController",function ($scope) {
+          $scope.add=function () {
+              return $scope.x+$scope.y;
+          }
+        });
+    </script>
+</head>
+<body ng-app="myApp" ng-controller="myController" >
+x:<input ng-model="x">
+y:<input ng-model="y">
+{{add()}}
+</body>
+</html>
